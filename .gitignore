@@ -314,4 +314,5 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,solidity,node,intellij
+# End of https://www.toptal.com/developers/gitignore/api/macos,solidity,node,intellij.idea
+/.idea/
